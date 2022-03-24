@@ -1,6 +1,8 @@
 # xtremespeech
 Code and data for our ACL 2022 Findings paper, "Listening to Affected Communities to Define Extreme Speech: Dataset and Experiments"
 
+To receive the data, please reach out to us via antmarakis at cis.lmu.de
+
 If you use/build on our work, please consider citing us:
 
 ```
