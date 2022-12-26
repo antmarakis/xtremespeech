@@ -1,7 +1,5 @@
 # xtremespeech
 
-UNDER CONSTRUCTION
-
 Code and data for our ACL 2022 Findings paper, "Listening to Affected Communities to Define Extreme Speech: Dataset and Experiments" ([preprint](https://arxiv.org/abs/2203.11764)).
 
 To receive the data, please reach out to us via antmarakis at cis.lmu.de
